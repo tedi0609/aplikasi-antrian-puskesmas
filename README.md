@@ -29,22 +29,26 @@ Muhammad Fathurrahman : Database administrator
 Gunawan Ridho Pribadi = ui/ux desaigner
 Putri Nirmala Sari = Bussiness Analyst
 
-Tampilan
-![aplikasi puskesmas](https://user-images.githubusercontent.com/52597151/149165853-1756bb62-7457-46a1-8cbf-1134e0c20d60.png)
-Menu Registrasi
+#Tampilan Aplikasi
+menu registrasi
 ![menu registrasi pasien](https://user-images.githubusercontent.com/52597151/149165873-af0751ed-44a2-4d00-965d-45e3597a209f.png)
-Login User
+login user
 ![form login](https://user-images.githubusercontent.com/52597151/149165862-f7dcd7aa-1e30-454d-99be-8a68346424f2.png)
-Hasil Ambil Setelah Antrian
-![hasil ambil antrian](https://user-images.githubusercontent.com/52597151/149165864-ea607a65-808f-4bee-9b79-8725090ca1c7.png)
-Login Admin
-![login admin](https://user-images.githubusercontent.com/52597151/149165866-13477723-f952-40d2-9f96-6594873b75c2.png)
-Tampilan Admin
-![tampilan admin](https://user-images.githubusercontent.com/52597151/149165874-19eb0ed3-5869-4cc2-9792-63679f5c15fb.png)
-Form Ambil Antrian
+form ambil antrian
 ![ambil antrian](https://user-images.githubusercontent.com/52597151/149165849-4229168d-c55a-4dc8-a27b-50653d9fcb3b.png)
-Cetak Antrian
+hasil setelah ambil antrian
+![hasil ambil antrian](https://user-images.githubusercontent.com/52597151/149165864-ea607a65-808f-4bee-9b79-8725090ca1c7.png)
+cetak antrian
 ![cetak antrian](https://user-images.githubusercontent.com/52597151/149165859-5b9cb837-0aa9-4436-a8d5-444b80597ff8.png)
-Form Login
+login admin
+![login admin](https://user-images.githubusercontent.com/52597151/149165866-13477723-f952-40d2-9f96-6594873b75c2.png)
+tampilan admin
+![tampilan admin](https://user-images.githubusercontent.com/52597151/149165874-19eb0ed3-5869-4cc2-9792-63679f5c15fb.png)
+menu poli
+![menu poli ](https://user-images.githubusercontent.com/52597151/149180069-32f8814d-2b5f-42c8-98de-886cdaf2274b.png)
+menu poli antrian
+![poli antrian](https://user-images.githubusercontent.com/52597151/149180080-6ff84f0c-ca3d-40d3-80a1-6b69349d0d87.png)
+menu data pasien
+![data pasien](https://user-images.githubusercontent.com/52597151/149180085-1fd7f472-20f3-4367-a732-6bf162f48f28.png)
 
 
