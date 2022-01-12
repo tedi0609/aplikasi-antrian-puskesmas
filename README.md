@@ -53,4 +53,25 @@ menu poli antrian
 menu data pasien
 ![data pasien](https://user-images.githubusercontent.com/52597151/149180085-1fd7f472-20f3-4367-a732-6bf162f48f28.png)
 
+Panduan instalasi aplikasi
+1. Download dan Install Aplikasi xampp
+2. ekstrak file menggunakan aplikasi WINRAR
+3. copy folder antrian-puskesmas, lalu paste ke folder htdocs
+4. aktifkan apache dan mysql pada xampp
+5. buka browser, lalu buka alamat localhost/phpmyadmin.
+6. buat database baru dengan nama db_antrian
+7. import database ke dalam database db_antrian
+8. jalankan project dengan ketik localhost/antrian-puskesmas/admin/login
+9. login dengan email : admin@admin.com, password:admin
+10. selesai
+
+Jika mengalami masalah dalam instalasi, ataupun operasional dari aplikasinya, silahkan hubungi kami di email tedysahputra692@gmail.com. Aplikasi ini kami beri lisensi opensource (MIT) jadi teman teman bebas untuk menggunakan & mengembangkannya kembali.
+
+Kami mengucapkan terimakasih kepada dosen pemrograman web pak jihadul akbar,S.Kom yang telah memberikan 
+memberikan gambaran kedepan bagaimana membuat aplikasi berbasis web dan semoga project web ini bisa membangkan aplikasi ini untuk lebih bagus lagi.
+
+Terima kasih,
+wassalmualaikum wr.wb
+
+ttd kelompok 1
 
