@@ -1,6 +1,7 @@
-![aplikasi puskesmas](https://user-images.githubusercontent.com/52597151/149161767-d3b94384-f5da-4022-bc47-7fc0130e266b.png)
 # aplikasi-antrian-puskesmas
 Aplikasi Antrian Puskesmas Berbasis Php MySql merupakan aplikasi berbasis web yang dibuat untuk meningkatkan pelayanan Puskesmas kepada masyarakat. Pelayanan yang dimaksud adalah pelayanan kepada pasien yang akan berobat ke Puskesmas. Aplikasi ini berguna untuk menyediakan nomor antrian secara online.
+![aplikasi puskesmas](https://user-images.githubusercontent.com/52597151/149161767-d3b94384-f5da-4022-bc47-7fc0130e266b.png)
+
 
 Teknologi yang digunakan
 Font scripts          : Google Font API
@@ -10,6 +11,7 @@ Programming languages : PHP 7.3.31
 JavaScript libraries  : jQuery 3.4.1
 UI frameworks         : Bootstrap 4.3.1
 Library               : Axios (Resfull API Client)
+
 
 
 Fitur
